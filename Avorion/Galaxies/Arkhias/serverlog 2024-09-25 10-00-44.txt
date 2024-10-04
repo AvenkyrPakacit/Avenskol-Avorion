@@ -1,0 +1,573 @@
+2024-09-25 10-00-44| Main Thread ID: 139708530356864
+2024-09-25 10-00-44| Enabled Traces: 
+2024-09-25 10-00-44| Starting thread [Networking 1 WorkerPool Thread 0]...
+2024-09-25 10-00-44| Started thread [Networking 1 WorkerPool Thread 0] with id 139708466202304
+2024-09-25 10-00-44| Starting thread [Networking 2 WorkerPool Thread 0]...
+2024-09-25 10-00-44| Started thread [Networking 2 WorkerPool Thread 0] with id 139708455716544
+2024-09-25 10-00-44| Avorion server 2.5.2 e97532556063 running on Linux Mint 22 starting up in "/home/avenkyrpakacit/.avorion/galaxies/Arkhias"
+2024-09-25 10-00-44| Version Hash: 2762212502104784035
+2024-09-25 10-00-44| CPU: AMD Ryzen 5 5600G with Radeon Graphics 12 Cores
+2024-09-25 10-00-44| RAM: 30.7GB
+2024-09-25 10-00-44| 
+2024-09-25 10-00-44| Initializing networking...
+2024-09-25 10-00-44| Server version, as listed publicly: 2.5.2.41507
+2024-09-25 10-00-46| Server connected to Steam successfully
+2024-09-25 10-00-46| Server is not VAC Secure!
+2024-09-25 10-00-46| Game Server Steam ID: 90202047896355868
+2024-09-25 10-00-46| Game Port: 27000
+2024-09-25 10-00-46| Steam Port: 27021
+2024-09-25 10-00-46| Steam Query Port: 27020
+2024-09-25 10-00-46| Query Port: 27003
+2024-09-25 10-00-46| 
+2024-09-25 10-00-46| Steam Networking initialized.
+2024-09-25 10-00-46| Warning: No RCON password set. RCON disabled.
+2024-09-25 10-00-46| Loading global variables...
+2024-09-25 10-00-46| Found 0 mods in "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/modconfig.lua".
+2024-09-25 10-00-47| name: DefenderPA90's Server
+2024-09-25 10-00-47| seed: cE8FJlDwTl
+2024-09-25 10-00-47| port: 27000
+2024-09-25 10-00-47| max online players: 10
+2024-09-25 10-00-47| save interval: 600
+2024-09-25 10-00-47| broadcast interval: 5
+2024-09-25 10-00-47| max loaded sector time: 300
+2024-09-25 10-00-47| weak update: yes
+2024-09-25 10-00-47| worker threads: 11
+2024-09-25 10-00-47| generator threads: 2
+2024-09-25 10-00-47| script background threads: 2
+2024-09-25 10-00-47| difficulty: Expert
+2024-09-25 10-00-47| scenario: Normal
+2024-09-25 10-00-47| tutorial: no
+2024-09-25 10-00-47| collision: 1
+2024-09-25 10-00-47| access list: Blacklist
+2024-09-25 10-00-47| multiplayer: no
+2024-09-25 10-00-47| vac secure: no
+2024-09-25 10-00-47| listed: no
+2024-09-25 10-00-47| steam networking: yes
+2024-09-25 10-00-47| send crash reports: no
+2024-09-25 10-00-47| Backup creation enabled. Path: "/home/avenkyrpakacit/.avorion/backups"
+2024-09-25 10-00-47| Please ensure that the server has write-access to that path.
+2024-09-25 10-00-47| server will exit once all admins logged out.
+2024-09-25 10-00-47| administrators: 'admin' 
+2024-09-25 10-00-47| Commands file: /home/avenkyrpakacit/.avorion/galaxies/Arkhias/commands.txt
+2024-09-25 10-00-47| Initializing sector database...
+2024-09-25 10-00-47| Starting thread [Create Sectors WorkerPool Thread 0]...
+2024-09-25 10-00-47| Started thread [Create Sectors WorkerPool Thread 0] with id 139708361344704
+2024-09-25 10-00-47| Starting thread [Create Sectors WorkerPool Thread 1]...
+2024-09-25 10-00-47| Started thread [Create Sectors WorkerPool Thread 1] with id 139708350858944
+2024-09-25 10-00-47| Starting thread [Save Sectors WorkerPool Thread 0]...
+2024-09-25 10-00-47| Started thread [Save Sectors WorkerPool Thread 0] with id 139708340373184
+2024-09-25 10-00-47| Initializing faction database...
+2024-09-25 10-00-47| Starting thread [Save Factions WorkerPool Thread 0]...
+2024-09-25 10-00-47| Started thread [Save Factions WorkerPool Thread 0] with id 139708329887424
+2024-09-25 10-00-47| Initializing galaxy...
+2024-09-25 10-00-47| Starting up 11 worker threads...
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 0]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 0] with id 139708319401664
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 1]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 1] with id 139708170503872
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 2]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 2] with id 139708160018112
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 3]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 3] with id 139708149532352
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 4]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 4] with id 139708139046592
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 5]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 5] with id 139708128560832
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 6]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 6] with id 139708118075072
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 7]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 7] with id 139707969177280
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 8]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 8] with id 139707958691520
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 9]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 9] with id 139707948205760
+2024-09-25 10-00-47| Starting thread [Game WorkerPool Thread 10]...
+2024-09-25 10-00-47| Started thread [Game WorkerPool Thread 10] with id 139707937720000
+2024-09-25 10-00-47| Starting up 2 script background threads...
+2024-09-25 10-00-47| Starting thread [Lua WorkerPool Thread 0]...
+2024-09-25 10-00-47| Started thread [Lua WorkerPool Thread 0] with id 139707927234240
+2024-09-25 10-00-47| Starting thread [Lua WorkerPool Thread 1]...
+2024-09-25 10-00-47| Started thread [Lua WorkerPool Thread 1] with id 139707916748480
+2024-09-25 10-00-47| Starting thread [Lua WorkerPool Thread 2]...
+2024-09-25 10-00-47| Started thread [Lua WorkerPool Thread 2] with id 139707767850688
+2024-09-25 10-00-47| Starting thread [Lua WorkerPool Thread 3]...
+2024-09-25 10-00-47| Started thread [Lua WorkerPool Thread 3] with id 139707757364928
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 0] with id 139707927234240 exiting...
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 0] with id 139707927234240 exited
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 1] with id 139707916748480 exiting...
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 1] with id 139707916748480 exited
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 2] with id 139707767850688 exiting...
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 2] with id 139707767850688 exited
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 3] with id 139707757364928 exiting...
+2024-09-25 10-00-47| Thread [Lua WorkerPool Thread 3] with id 139707757364928 exited
+2024-09-25 10-00-47| Starting thread [Lua WorkerPool Thread 4]...
+2024-09-25 10-00-47| Started thread [Lua WorkerPool Thread 4] with id 139707757364928
+2024-09-25 10-00-47| Starting thread [Lua WorkerPool Thread 5]...
+2024-09-25 10-00-47| Started thread [Lua WorkerPool Thread 5] with id 139707767850688
+2024-09-25 10-00-47| Loading groups...
+2024-09-25 10-00-47| Loading script data...
+2024-09-25 10-00-47| Galaxy initialized.
+2024-09-25 10-00-47| Setting startup script...
+2024-09-25 10-00-47| Error initializing server command line input interface: assign: Operation not permitted
+2024-09-25 10-00-47| Server has been running for 17049 seconds in total, and 10155 without pauses.
+2024-09-25 10-00-47| Starting thread [UDP Connection Receive]...
+2024-09-25 10-00-47| Started thread [UDP Connection Receive] with id 139707916748480
+2024-09-25 10-00-47| Server startup complete.
+2024-09-25 10-00-47| Starting thread [HangDetector]...
+2024-09-25 10-00-47| Started thread [HangDetector] with id 139707927234240
+2024-09-25 10-00-47| Starting thread [Steam Networking Receive]...
+2024-09-25 10-00-47| Started thread [Steam Networking Receive] with id 139707746879168
+2024-09-25 10-00-48| OnP2PSessionRequest from 76561199024034143
+2024-09-25 10-00-53| Steam authentication confirmed for 76561199024034143
+2024-09-25 10-00-53| Authentication successful for 76561199024034143
+2024-09-25 10-00-53| Connection to client established
+2024-09-25 10-00-53| Connection accepted from 192.168.1.44:0
+2024-09-25 10-00-56| 'DefenderPA90' (1) (76561199024034143) owns BlackMarket DLC: yes, client reports: yes, Steam reports: 1
+2024-09-25 10-00-56| 'DefenderPA90' (1) (76561199024034143) owns IntoTheRift DLC: yes, client reports: yes, Steam reports: 1
+2024-09-25 10-00-56| 'DefenderPA90' (1) (76561199024034143) owns Behemoth DLC: yes, client reports: yes, Steam reports: 1
+2024-09-25 10-00-56| SectorDatabase: Loading Sector (-136:426)
+2024-09-25 10-00-56| Player logged in: DefenderPA90, index: 1
+2024-09-25 10-00-56| <Server> Player DefenderPA90 joined the galaxy
+2024-09-25 10-00-57| SectorDatabase: Loading Sector (-139:426)
+2024-09-25 10-00-58| Player DefenderPA90 moved to sector (-136:426) server time taken for change: 113ms
+2024-09-25 10-00-58| create save work for sector (-136:426), 0x7f1028001ea0, entities: 740
+2024-09-25 10-00-58| saving sector (-136:426)
+2024-09-25 10-00-58| SectorDatabase: Loading Sector (-138:428)
+2024-09-25 10-00-58| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-01-00| SectorDatabase: Loading Sector (-135:422)
+2024-09-25 10-03-49| create save work for sector (-136:426), 0x7f1028001ea0, entities: 744
+2024-09-25 10-03-49| saving sector (-136:426)
+2024-09-25 10-03-49| Player DefenderPA90 moved to sector (-138:428)from (-136:426) server time taken for change: 184ms
+2024-09-25 10-03-49| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-03-49| create save work for sector (-138:428), 0x7f1028700a30, entities: 2468
+2024-09-25 10-03-49| saving sector (-138:428)
+2024-09-25 10-03-50| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-08-06| <> Calculating jump route to (-138:426). Please stand by.
+2024-09-25 10-08-06| Creating sector at (-138:426)
+2024-09-25 10-08-06| create save work for sector (-138:426), 0x7f0f8d3abc20, entities: 0
+2024-09-25 10-08-08| <> Calculating jump route to (-139:426). Please stand by.
+2024-09-25 10-08-21| create save work for sector (-138:428), 0x7f1028700a30, entities: 2470
+2024-09-25 10-08-21| Player DefenderPA90 moved to sector (-139:426)from (-138:428) server time taken for change: 0ms
+SectorDatabase:2024-09-25 10-08-21 | LSoaedcitnogr DSaetcatboars e(: -L1o3a8d:i4n2g1 )S
+2024-09-25 10-08-21| ector (-144:426)
+2024-09-25 10-08-21| saving sector (-138:428)
+2024-09-25 10-08-21| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1161
+2024-09-25 10-08-21| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-08-21| saving sector (-139:426)
+2024-09-25 10-08-22| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-08-52| create save work for sector (-135:422), 0x7f102170c210, entities: 505
+2024-09-25 10-08-52| saving sector 0x7f102170c210
+2024-09-25 10-08-52| saving sector 0x7f102170c210
+2024-09-25 10-08-52| saving sector (-135:422)
+2024-09-25 10-08-52| sector (-135:422) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_422"
+2024-09-25 10-10-53| Triggered saving of all server data.
+2024-09-25 10-10-53| create save work for sector (-144:426), 0x7f0fa977b1c0, entities: 930
+2024-09-25 10-10-54| saving sector (-144:426)
+2024-09-25 10-10-54| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1181
+2024-09-25 10-10-54| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-10-54| saving sector (-139:426)
+2024-09-25 10-10-54| create save work for sector (-138:421), 0x7f0f9f53bda0, entities: 291
+2024-09-25 10-10-54| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-10-54| saving sector (-138:421)
+2024-09-25 10-10-54| create save work for sector (-138:428), 0x7f1028700a30, entities: 2457
+2024-09-25 10-10-54| sector (-138:421) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_421"
+2024-09-25 10-10-54| saving sector (-138:428)
+2024-09-25 10-10-54| create save work for sector (-136:426), 0x7f1028001ea0, entities: 731
+2024-09-25 10-10-55| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-10-55| saving sector (-136:426)
+2024-09-25 10-10-55| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-13-24| create save work for sector (-136:426), 0x7f1028001ea0, entities: 731
+2024-09-25 10-13-24| saving sector 0x7f1028001ea0
+2024-09-25 10-13-24| saving sector 0x7f1028001ea0
+2024-09-25 10-13-24| saving sector (-136:426)
+2024-09-25 10-13-24| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-15-40| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1144
+2024-09-25 10-15-40| saving sector (-139:426)
+2024-09-25 10-15-40| Player DefenderPA90 moved to sector (-144:426)from (-139:426) server time taken for change: 90ms
+2024-09-25 10-15-40| SectorDatabase: Loading Sector (-146:425)
+2024-09-25 10-15-40| SectorDatabase: Loading Sector (-144:429)
+2024-09-25 10-15-40| create save work for sector (-144:426), 0x7f0fa977b1c0, entities: 931
+2024-09-25 10-15-40| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-15-40| saving sector (-144:426)
+2024-09-25 10-15-40| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-16-48| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.006s); saving backup ...
+2024-09-25 10-16-48| Backup saved: "/home/avenkyrpakacit/.avorion/backups/Arkhias-2024-09-25 10-16-48.bak" (0.009s)
+2024-09-25 10-19-37| create save work for sector (-144:426), 0x7f0fa977b1c0, entities: 938
+2024-09-25 10-19-37| saving sector (-144:426)
+2024-09-25 10-19-37| Player DefenderPA90 moved to sector (-139:426)from (-144:426) server time taken for change: 167ms
+2024-09-25 10-19-37| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-19-37| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1140
+2024-09-25 10-19-37| saving sector (-139:426)
+2024-09-25 10-19-38| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-20-59| Triggered saving of all server data.
+2024-09-25 10-20-59| create save work for sector (-146:425), 0x7f0f92ea1070, entities: 978
+2024-09-25 10-20-59| saving sector (-146:425)
+2024-09-25 10-21-00| create save work for sector (-144:426), 0x7f0fa977b1c0, entities: 936
+2024-09-25 10-21-00| sector (-146:425) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-146_425"
+2024-09-25 10-21-00| saving sector (-144:426)
+2024-09-25 10-21-00| create save work for sector (-144:429), 0x7f0f82155f90, entities: 797
+2024-09-25 10-21-00| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-21-00| saving sector (-144:429)
+2024-09-25 10-21-00| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1144
+2024-09-25 10-21-00| sector (-144:429) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_429"
+2024-09-25 10-21-00| saving sector (-139:426)
+2024-09-25 10-21-00| create save work for sector (-138:421), 0x7f0f9f53bda0, entities: 291
+2024-09-25 10-21-01| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-21-01| saving sector (-138:421)
+2024-09-25 10-21-01| create save work for sector (-138:428), 0x7f1028700a30, entities: 2435
+2024-09-25 10-21-01| sector (-138:421) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_421"
+2024-09-25 10-21-01| saving sector (-138:428)
+2024-09-25 10-21-01| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-21-53| <> You need 15.600 Credits to pay the crew of Xeital.
+2024-09-25 10-22-00| <> Calculating jump route to (-138:428). Please stand by.
+2024-09-25 10-22-03| <> You are already in this sector.
+2024-09-25 10-22-22| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1146
+2024-09-25 10-22-22| Player DefenderPA90 moved to sector (-138:428)from (-139:426) server time taken for change: 0ms
+2024-09-25 10-22-22| saving sector (-139:426)
+2024-09-25 10-22-22| SectorDatabase: Loading Sector (-136:426)
+2024-09-25 10-22-22| create save work for sector (-138:428), 0x7f1028700a30, entities: 2436
+2024-09-25 10-22-22| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-22-22| saving sector (-138:428)
+2024-09-25 10-22-23| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-24-39| <> The crew of your ship 'Xeital' was paid.
+2024-09-25 10-24-40| create save work for sector (-144:429), 0x7f0f82155f90, entities: 797
+2024-09-25 10-24-40| saving sector 0x7f0f82155f90
+2024-09-25 10-24-40| saving sector 0x7f0f82155f90
+2024-09-25 10-24-40| create save work for sector (-146:425), 0x7f0f92ea1070, entities: 978
+2024-09-25 10-24-40| saving sector (-144:429)
+2024-09-25 10-24-40| sector (-144:429) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_429"
+2024-09-25 10-24-40| saving sector 0x7f0f92ea1070
+2024-09-25 10-24-40| saving sector 0x7f0f92ea1070
+2024-09-25 10-24-40| saving sector (-146:425)
+2024-09-25 10-24-41| sector (-146:425) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-146_425"
+2024-09-25 10-27-25| create save work for sector (-138:421), 0x7f0f9f53bda0, entities: 291
+2024-09-25 10-27-25| saving sector 0x7f0f9f53bda0
+2024-09-25 10-27-25| saving sector 0x7f0f9f53bda0
+2024-09-25 10-27-25| create save work for sector (-144:426), 0x7f0fa977b1c0, entities: 934
+2024-09-25 10-27-25| saving sector (-138:421)
+2024-09-25 10-27-25| sector (-138:421) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_421"
+2024-09-25 10-27-25| saving sector 0x7f0fa977b1c0
+2024-09-25 10-27-25| saving sector 0x7f0fa977b1c0
+2024-09-25 10-27-26| saving sector (-144:426)
+2024-09-25 10-27-26| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-27-49| <> Calculating jump route to (-136:426). Please stand by.
+2024-09-25 10-27-59| create save work for sector (-138:428), 0x7f1028700a30, entities: 2437
+2024-09-25 10-27-59| Player DefenderPA90 moved to sector (-136:426)from (-138:428) server time taken for change: 0ms
+2024-09-25 10-27-59| saving sector (-138:428)
+2024-09-25 10-27-59| SectorDatabase: Loading Sector (-135:422)
+2024-09-25 10-27-59| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 732
+2024-09-25 10-28-00| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-28-00| saving sector (-136:426)
+2024-09-25 10-28-00| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-31-06| Triggered saving of all server data.
+2024-09-25 10-31-06| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1135
+2024-09-25 10-31-06| saving sector (-139:426)
+2024-09-25 10-31-06| create save work for sector (-138:428), 0x7f1028700a30, entities: 2421
+2024-09-25 10-31-06| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-31-06| saving sector (-138:428)
+2024-09-25 10-31-06| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 737
+2024-09-25 10-31-06| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-31-06| saving sector (-136:426)
+2024-09-25 10-31-06| create save work for sector (-135:422), 0x7f0fa8b6bf90, entities: 505
+2024-09-25 10-31-07| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-31-07| saving sector (-135:422)
+2024-09-25 10-31-07| sector (-135:422) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_422"
+2024-09-25 10-31-09| <> Calculating jump route to (-139:426). Please stand by.
+2024-09-25 10-31-20| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 734
+2024-09-25 10-31-20| Player DefenderPA90 moved to sector (-139:426)from (-136:426) server time taken for change: 0ms
+2024-09-25 10-31-20| saving sector (-136:426)
+2024-09-25 10-31-20| SectorDatabase: Loading Sector (-144:426)
+2024-09-25 10-31-20| SectorDatabase: Loading Sector (-138:421)
+2024-09-25 10-31-20| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1138
+2024-09-25 10-31-20| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-31-20| saving sector (-139:426)
+2024-09-25 10-31-21| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-31-32| <> Sector is out of reach. Plotting an intermediate course.
+2024-09-25 10-31-32| <> Calculating jump route to (-143:426). Please stand by.
+2024-09-25 10-31-32| Creating sector at (-143:426)
+2024-09-25 10-31-32| create save work for sector (-143:426), 0x7f10290c7270, entities: 0
+2024-09-25 10-33-39| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1182
+2024-09-25 10-33-39| saving sector (-139:426)
+2024-09-25 10-33-39| Player DefenderPA90 moved to sector (-144:426)from (-139:426) server time taken for change: 106ms
+2024-09-25 10-33-39| SSeeccttoorrDaDtaatbaabsaes:e :L oLaodiandgi nSegc tSoerc t(o-r1 4(6:-412454):
+2024-09-25 10-33-39| 429)
+2024-09-25 10-33-39| create save work for sector (-144:426), 0x7f0f8f455ff0, entities: 937
+2024-09-25 10-33-39| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-33-39| saving sector (-144:426)
+2024-09-25 10-33-40| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-33-53| <> Calculating jump route to (-145:425). Please stand by.
+2024-09-25 10-33-53| SectorDatabase: Loading Sector (-145:425)
+2024-09-25 10-34-18| <> You are already in this sector.
+2024-09-25 10-34-30| <> Sector is out of reach. Plotting an intermediate course.
+2024-09-25 10-34-30| <> Calculating jump route to (-140:426). Please stand by.
+2024-09-25 10-34-30| Creating sector at (-140:426)
+2024-09-25 10-34-30| create save work for sector (-140:426), 0x7f0f486f2e90, entities: 0
+2024-09-25 10-34-50| create save work for sector (-145:425), 0x7f0f6246d9f0, entities: 47
+2024-09-25 10-34-50| saving sector 0x7f0f6246d9f0
+2024-09-25 10-34-50| saving sector 0x7f0f6246d9f0
+2024-09-25 10-34-50| saving sector (-145:425)
+2024-09-25 10-34-50| sector (-145:425) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-145_425"
+2024-09-25 10-34-50| Creating sector at (-146:423)
+2024-09-25 10-34-50| create save work for sector (-146:423), 0x7f0f6a7b4ec0, entities: 0
+2024-09-25 10-35-01| create save work for sector (-144:426), 0x7f0f8f455ff0, entities: 935
+2024-09-25 10-35-01| Player DefenderPA90 moved to sector (-146:423)from (-144:426) server time taken for change: 0ms
+2024-09-25 10-35-01| saving sector (-144:426)
+2024-09-25 10-35-01| create save work for sector (-146:423), 0x7f0f6a7b4ec0, entities: 3
+2024-09-25 10-35-01| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-35-01| saving sector (-146:423)
+2024-09-25 10-35-01| sector (-146:423) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-146_423"
+2024-09-25 10-35-09| <> Calculating jump route to (-148:420). Please stand by.
+2024-09-25 10-35-09| Creating sector at (-148:420)
+2024-09-25 10-35-09| create save work for sector (-148:420), 0x7f10290c7270, entities: 0
+2024-09-25 10-35-21| Player DefenderPA90 moved to sector (-148:420)from (-146:423) server time taken for change: 0ms
+2024-09-25 10-35-21| create save work for sector (-146:423), 0x7f0f6a7b4ec0, entities: 0
+2024-09-25 10-35-21| create save work for sector (-148:420), 0x7f10290c7270, entities: 3
+2024-09-25 10-35-21| saving sector (-148:420)
+2024-09-25 10-35-21| sector (-148:420) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-148_420"
+2024-09-25 10-35-33| <> Calculating jump route to (-149:418). Please stand by.
+2024-09-25 10-35-33| Creating sector at (-149:418)
+2024-09-25 10-35-33| create save work for sector (-149:418), 0x7f0f9ee3b850, entities: 0
+2024-09-25 10-35-48| create save work for sector (-148:420), 0x7f10290c7270, entities: 0
+2024-09-25 10-35-48| Player DefenderPA90 moved to sector (-149:418)from (-148:420) server time taken for change: 0ms
+2024-09-25 10-35-49| create save work for sector (-149:418), 0x7f0f9ee3b850, entities: 334
+2024-09-25 10-35-49| saving sector (-149:418)
+2024-09-25 10-35-49| sector (-149:418) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-149_418"
+2024-09-25 10-36-23| create save work for sector (-135:422), 0x7f0fa8b6bf90, entities: 505
+2024-09-25 10-36-23| saving sector 0x7f0fa8b6bf90
+2024-09-25 10-36-23| saving sector 0x7f0fa8b6bf90
+2024-09-25 10-36-23| saving sector (-135:422)
+2024-09-25 10-36-23| sector (-135:422) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_422"
+2024-09-25 10-37-14| <> Calculating jump route to (-147:421). Please stand by.
+2024-09-25 10-37-14| Creating sector at (-147:421)
+2024-09-25 10-37-14| create save work for sector (-147:421), 0x7f0f486f2e90, entities: 0
+2024-09-25 10-37-26| Player DefenderPA90 moved to sector (-147:421)from (-149:418) server time taken for change: 0ms
+2024-09-25 10-37-26| create save work for sector (-149:418), 0x7f0f9ee3b850, entities: 0
+2024-09-25 10-37-26| create save work for sector (-147:421), 0x7f0f486f2e90, entities: 3
+2024-09-25 10-37-26| saving sector (-147:421)
+2024-09-25 10-37-26| sector (-147:421) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-147_421"
+2024-09-25 10-37-32| <> Calculating jump route to (-145:424). Please stand by.
+2024-09-25 10-37-32| Creating sector at (-145:424)
+2024-09-25 10-37-32| create save work for sector (-145:424), 0x7f0f6a2bc4d0, entities: 0
+2024-09-25 10-37-44| Player DefenderPA90 moved to sector (-145:424)from (-147:421) server time taken for change: 0ms
+2024-09-25 10-37-44| create save work for sector (-147:421), 0x7f0f486f2e90, entities: 0
+2024-09-25 10-37-44| create save work for sector (-145:424), 0x7f0f6a2bc4d0, entities: 3
+2024-09-25 10-37-44| saving sector (-145:424)
+2024-09-25 10-37-44| sector (-145:424) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-145_424"
+2024-09-25 10-37-53| <> Calculating jump route to (-144:426). Please stand by.
+2024-09-25 10-38-25| Player DefenderPA90 moved to sector (-136:426)from (-145:424) server time taken for change: 21ms
+2024-09-25 10-38-26| create save work for sector (-145:424), 0x7f0f6a2bc4d0, entities: 3
+2024-09-25 10-38-26| SectorDatabase: Loading Sector (-135:422)
+2024-09-25 10-38-26| saving sector (-145:424)
+2024-09-25 10-38-26| sector (-145:424) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-145_424"
+2024-09-25 10-38-26| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 732
+2024-09-25 10-38-26| saving sector (-136:426)
+2024-09-25 10-38-26| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-38-42| create save work for sector (-138:421), 0x7f0f9318dbe0, entities: 291
+2024-09-25 10-38-42| saving sector 0x7f0f9318dbe0
+2024-09-25 10-38-42| saving sector 0x7f0f9318dbe0
+2024-09-25 10-38-42| saving sector (-138:421)
+2024-09-25 10-38-42| sector (-138:421) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_421"
+2024-09-25 10-39-46| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 736
+2024-09-25 10-39-46| saving sector (-136:426)
+2024-09-25 10-39-46| Player DefenderPA90 moved to sector (-144:426)from (-136:426) server time taken for change: 118ms
+2024-09-25 10-39-46| create save work for sector (-144:426), 0x7f0f8f455ff0, entities: 938
+2024-09-25 10-39-46| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-39-46| saving sector (-144:426)
+2024-09-25 10-39-46| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-40-53| Server: finishing Xeital ...
+2024-09-25 10-40-53| Server: Finish successful
+2024-09-25 10-40-54| SectorDatabase: Loading Sector (-135:424)
+2024-09-25 10-40-55| (-135:424): Restoring 1's craft Xeital, type: 1
+2024-09-25 10-41-12| Triggered saving of all server data.
+2024-09-25 10-41-12| create save work for sector (-149:418), 0x7f0f9ee3b850, entities: 0
+2024-09-25 10-41-12| create save work for sector (-147:421), 0x7f0f486f2e90, entities: 0
+2024-09-25 10-41-12| create save work for sector (-146:425), 0x7f0f5e214e30, entities: 978
+2024-09-25 10-41-12| saving sector (-146:425)
+2024-09-25 10-41-12| create save work for sector (-145:424), 0x7f0f6a2bc4d0, entities: 0
+2024-09-25 10-41-12| Player DefenderPA90 moved to sector (-136:426)from (-144:426) server time taken for change: 113ms
+2024-09-25 10-41-12| sector (-146:425) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-146_425"
+2024-09-25 10-41-12| create save work for sector (-144:426), 0x7f0f8f455ff0, entities: 944
+2024-09-25 10-41-12| saving sector (-144:426)
+2024-09-25 10-41-12| create save work for sector (-144:429), 0x7f0f9f841a30, entities: 797
+2024-09-25 10-41-13| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-41-13| saving sector (-144:429)
+2024-09-25 10-41-13| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1159
+2024-09-25 10-41-13| sector (-144:429) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_429"
+2024-09-25 10-41-13| saving sector (-139:426)
+2024-09-25 10-41-13| create save work for sector (-138:428), 0x7f1028700a30, entities: 2420
+2024-09-25 10-41-13| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-41-13| saving sector (-138:428)
+2024-09-25 10-41-13| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 736
+2024-09-25 10-41-14| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-41-14| saving sector (-136:426)
+2024-09-25 10-41-14| create save work for sector (-135:422), 0x7f0f491093d0, entities: 505
+2024-09-25 10-41-14| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-41-14| saving sector (-135:422)
+2024-09-25 10-41-14| create save work for sector (-135:424), 0x7f10209bf0e0, entities: 1579
+2024-09-25 10-41-14| sector (-135:422) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_422"
+2024-09-25 10-41-14| saving sector (-135:424)
+2024-09-25 10-41-14| sector (-135:424) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_424"
+2024-09-25 10-41-43| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 742
+2024-09-25 10-41-43| Player DefenderPA90 moved to sector (-138:428)from (-136:426) server time taken for change: 0ms
+2024-09-25 10-41-43| saving sector (-136:426)
+2024-09-25 10-41-43| create save work for sector (-138:428), 0x7f1028700a30, entities: 2421
+2024-09-25 10-41-43| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 10-41-43| saving sector (-138:428)
+2024-09-25 10-41-44| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-46-15| create save work for sector (-146:425), 0x7f0f5e214e30, entities: 978
+2024-09-25 10-46-15| saving sector 0x7f0f5e214e30
+2024-09-25 10-46-15| saving sector 0x7f0f5e214e30
+2024-09-25 10-46-15| create save work for sector (-144:429), 0x7f0f9f841a30, entities: 797
+2024-09-25 10-46-15| saving sector (-146:425)
+2024-09-25 10-46-16| sector (-146:425) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-146_425"
+2024-09-25 10-46-16| saving sector 0x7f0f9f841a30
+2024-09-25 10-46-16| saving sector 0x7f0f9f841a30
+2024-09-25 10-46-16| saving sector (-144:429)
+2024-09-25 10-46-16| sector (-144:429) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_429"
+2024-09-25 10-46-30| create save work for sector (-135:424), 0x7f10209bf0e0, entities: 1575
+2024-09-25 10-46-30| saving sector 0x7f10209bf0e0
+2024-09-25 10-46-30| saving sector 0x7f10209bf0e0
+2024-09-25 10-46-30| saving sector (-135:424)
+2024-09-25 10-46-30| sector (-135:424) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_424"
+2024-09-25 10-46-42| create save work for sector (-144:426), 0x7f0f8f455ff0, entities: 931
+2024-09-25 10-46-42| saving sector 0x7f0f8f455ff0
+2024-09-25 10-46-42| saving sector 0x7f0f8f455ff0
+2024-09-25 10-46-42| saving sector (-144:426)
+2024-09-25 10-46-43| sector (-144:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-144_426"
+2024-09-25 10-46-46| create save work for sector (-135:422), 0x7f0f491093d0, entities: 505
+2024-09-25 10-46-46| saving sector 0x7f0f491093d0
+2024-09-25 10-46-46| saving sector 0x7f0f491093d0
+2024-09-25 10-46-46| saving sector (-135:422)
+2024-09-25 10-46-46| sector (-135:422) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_422"
+2024-09-25 10-51-18| Triggered saving of all server data.
+2024-09-25 10-51-18| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1148
+2024-09-25 10-51-18| saving sector (-139:426)
+2024-09-25 10-51-18| create save work for sector (-138:428), 0x7f1028700a30, entities: 2476
+2024-09-25 10-51-18| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 10-51-18| saving sector (-138:428)
+2024-09-25 10-51-18| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 731
+2024-09-25 10-51-18| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 10-51-18| saving sector (-136:426)
+2024-09-25 10-51-19| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 11-01-22| server: startAreaAnalysis  1
+2024-09-25 11-01-22| running area analysis
+2024-09-25 11-01-22| server: finished AreaAnalysis  1
+2024-09-25 11-01-24| Triggered saving of all server data.
+2024-09-25 11-01-24| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1148
+2024-09-25 11-01-24| saving sector (-139:426)
+2024-09-25 11-01-24| create save work for sector (-138:428), 0x7f1028700a30, entities: 2557
+2024-09-25 11-01-24| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 11-01-24| saving sector (-138:428)
+2024-09-25 11-01-24| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 731
+2024-09-25 11-01-24| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 11-01-25| saving sector (-136:426)
+2024-09-25 11-01-25| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 11-01-42| server: startAreaAnalysis  1
+2024-09-25 11-01-42| running area analysis
+2024-09-25 11-01-42| server: finished AreaAnalysis  1
+2024-09-25 11-02-00| server: startAreaAnalysis  1
+2024-09-25 11-02-00| running area analysis
+2024-09-25 11-02-00| server: finished AreaAnalysis  1
+2024-09-25 11-02-18| server: startAreaAnalysis  1
+2024-09-25 11-02-18| running area analysis
+2024-09-25 11-02-18| server: finished AreaAnalysis  1
+2024-09-25 11-02-50| server: startAreaAnalysis  1
+2024-09-25 11-02-50| running area analysis
+2024-09-25 11-02-50| server: finished AreaAnalysis  1
+2024-09-25 11-02-59| server: startAreaAnalysis  1
+2024-09-25 11-03-00| running area analysis
+2024-09-25 11-03-00| server: finished AreaAnalysis  1
+2024-09-25 11-03-50| server: startAreaAnalysis  1
+2024-09-25 11-03-50| running area analysis
+2024-09-25 11-03-50| server: finished AreaAnalysis  1
+2024-09-25 11-04-06| server: startAreaAnalysis  1
+2024-09-25 11-04-06| running area analysis
+2024-09-25 11-04-06| server: finished AreaAnalysis  1
+2024-09-25 11-04-36| create save work for sector (-138:428), 0x7f1028700a30, entities: 2588
+2024-09-25 11-04-36| Player logged off: 'DefenderPA90' (1) (76561199024034143)
+2024-09-25 11-04-36| saving sector (-138:428)
+2024-09-25 11-04-36| Cleaning up entity transfers ...
+2024-09-25 11-04-36| Thread [HangDetector] with id 139707927234240 exiting...
+2024-09-25 11-04-36| Thread [HangDetector] with id 139707927234240 exited
+2024-09-25 11-04-36| Server is shutting down.
+2024-09-25 11-04-36| Saving settings...
+2024-09-25 11-04-36| Saving script values...
+2024-09-25 11-04-36| Saving factions...
+2024-09-25 11-04-36| Saving sectors...
+2024-09-25 11-04-36| Saving groups...
+2024-09-25 11-04-36| Saving galaxy script data...
+2024-09-25 11-04-36| Saving settings...
+2024-09-25 11-04-36| waiting for unfinished sector generation jobs...
+2024-09-25 11-04-36| waiting for unfinished sector save jobs...
+2024-09-25 11-04-36| create save work for sector (-139:426), 0x7f1020001ea0, entities: 1148
+2024-09-25 11-04-36| create save work for sector (-138:428), 0x7f1028700a30, entities: 2588
+2024-09-25 11-04-36| create save work for sector (-136:426), 0x7f0f8146ec70, entities: 731
+2024-09-25 11-04-36| Received valid shutdown message, shutting down.
+2024-09-25 11-04-37| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 11-04-37| saving sector 0x7f1020001ea0
+2024-09-25 11-04-37| saving sector 0x7f1020001ea0
+2024-09-25 11-04-37| saving sector (-139:426)
+2024-09-25 11-04-38| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-25 11-04-38| saving sector 0x7f1028700a30
+2024-09-25 11-04-38| saving sector 0x7f1028700a30
+2024-09-25 11-04-38| saving sector (-138:428)
+2024-09-25 11-04-39| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-25 11-04-39| saving sector 0x7f0f8146ec70
+2024-09-25 11-04-39| saving sector 0x7f0f8146ec70
+2024-09-25 11-04-39| saving sector (-136:426)
+2024-09-25 11-04-39| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-25 11-04-39| shutting down rcon...
+2024-09-25 11-04-39| shutting down networking...
+2024-09-25 11-04-39| Thread [Steam Networking Receive] with id 139707746879168 exiting...
+2024-09-25 11-04-39| Thread [Steam Networking Receive] with id 139707746879168 exited
+2024-09-25 11-04-40| Ending authentication session of 76561199024034143
+2024-09-25 11-04-40| Thread [UDP Connection Receive] with id 139707916748480 exiting...
+2024-09-25 11-04-40| Thread [UDP Connection Receive] with id 139707916748480 exited
+2024-09-25 11-04-40| UDP closed
+2024-09-25 11-04-40| Server UDP: Connection closed
+2024-09-25 11-04-40| cleaning up communicators...
+2024-09-25 11-04-40| Thread [Networking 1 WorkerPool Thread 0] with id 139708466202304 exiting...
+2024-09-25 11-04-40| Thread [Networking 1 WorkerPool Thread 0] with id 139708466202304 exited
+2024-09-25 11-04-40| Thread [Networking 2 WorkerPool Thread 0] with id 139708455716544 exiting...
+2024-09-25 11-04-40| Thread [Networking 2 WorkerPool Thread 0] with id 139708455716544 exited
+2024-09-25 11-04-40| waiting for sector database termination...
+2024-09-25 11-04-40| waiting for faction database termination...
+2024-09-25 11-04-40| Thread [Save Factions WorkerPool Thread 0] with id 139708329887424 exiting...
+2024-09-25 11-04-40| Thread [Save Factions WorkerPool Thread 0] with id 139708329887424 exited
+2024-09-25 11-04-40| shutting down galaxy...
+2024-09-25 11-04-40| Thread [Lua WorkerPool Thread 4] with id 139707757364928 exiting...
+2024-09-25 11-04-40| Thread [Lua WorkerPool Thread 4] with id 139707757364928 exited
+2024-09-25 11-04-40| Thread [Lua WorkerPool Thread 5] with id 139707767850688 exiting...
+2024-09-25 11-04-40| Thread [Lua WorkerPool Thread 5] with id 139707767850688 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 0] with id 139708319401664 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 0] with id 139708319401664 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 1] with id 139708170503872 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 1] with id 139708170503872 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 2] with id 139708160018112 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 2] with id 139708160018112 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 3] with id 139708149532352 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 3] with id 139708149532352 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 4] with id 139708139046592 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 4] with id 139708139046592 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 5] with id 139708128560832 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 5] with id 139708128560832 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 6] with id 139708118075072 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 6] with id 139708118075072 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 7] with id 139707969177280 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 7] with id 139707969177280 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 8] with id 139707958691520 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 8] with id 139707958691520 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 9] with id 139707948205760 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 9] with id 139707948205760 exited
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 10] with id 139707937720000 exiting...
+2024-09-25 11-04-40| Thread [Game WorkerPool Thread 10] with id 139707937720000 exited
+2024-09-25 11-04-40| shutting down faction database...
+2024-09-25 11-04-40| shutting down sector database...
+2024-09-25 11-04-40| Thread [Save Sectors WorkerPool Thread 0] with id 139708340373184 exiting...
+2024-09-25 11-04-40| Thread [Save Sectors WorkerPool Thread 0] with id 139708340373184 exited
+2024-09-25 11-04-40| Thread [Create Sectors WorkerPool Thread 0] with id 139708361344704 exiting...
+2024-09-25 11-04-40| Thread [Create Sectors WorkerPool Thread 0] with id 139708361344704 exited
+2024-09-25 11-04-40| Thread [Create Sectors WorkerPool Thread 1] with id 139708350858944 exiting...
+2024-09-25 11-04-40| Thread [Create Sectors WorkerPool Thread 1] with id 139708350858944 exited
+2024-09-25 11-04-40| cleaning up timers...
+2024-09-25 11-04-40| Server shutdown successful.
