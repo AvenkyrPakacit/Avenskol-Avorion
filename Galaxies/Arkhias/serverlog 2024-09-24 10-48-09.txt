@@ -1,0 +1,286 @@
+2024-09-24 10-48-09| Main Thread ID: 125636583740032
+2024-09-24 10-48-09| Enabled Traces: 
+2024-09-24 10-48-09| Starting thread [Networking 1 WorkerPool Thread 0]...
+2024-09-24 10-48-09| Started thread [Networking 1 WorkerPool Thread 0] with id 125636519659200
+2024-09-24 10-48-09| Starting thread [Networking 2 WorkerPool Thread 0]...
+2024-09-24 10-48-09| Started thread [Networking 2 WorkerPool Thread 0] with id 125636509173440
+2024-09-24 10-48-09| Avorion server 2.5.2 e97532556063 running on Linux Mint 22 starting up in "/home/avenkyrpakacit/.avorion/galaxies/Arkhias"
+2024-09-24 10-48-09| Version Hash: 2762212502104784035
+2024-09-24 10-48-09| CPU: AMD Ryzen 5 5600G with Radeon Graphics 12 Cores
+2024-09-24 10-48-09| RAM: 30.7GB
+2024-09-24 10-48-09| 
+2024-09-24 10-48-09| Initializing networking...
+2024-09-24 10-48-09| Server version, as listed publicly: 2.5.2.41507
+2024-09-24 10-48-12| Server connected to Steam successfully
+2024-09-24 10-48-12| Server is not VAC Secure!
+2024-09-24 10-48-12| Game Server Steam ID: 90202024789780501
+2024-09-24 10-48-12| Game Port: 27000
+2024-09-24 10-48-12| Steam Port: 27021
+2024-09-24 10-48-12| Steam Query Port: 27020
+2024-09-24 10-48-12| Query Port: 27003
+2024-09-24 10-48-12| 
+2024-09-24 10-48-12| Steam Networking initialized.
+2024-09-24 10-48-12| Warning: No RCON password set. RCON disabled.
+2024-09-24 10-48-12| Loading global variables...
+2024-09-24 10-48-12| Found 0 mods in "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/modconfig.lua".
+2024-09-24 10-48-13| name: DefenderPA90's Server
+2024-09-24 10-48-13| seed: cE8FJlDwTl
+2024-09-24 10-48-13| port: 27000
+2024-09-24 10-48-13| max online players: 10
+2024-09-24 10-48-13| save interval: 600
+2024-09-24 10-48-13| broadcast interval: 5
+2024-09-24 10-48-13| max loaded sector time: 300
+2024-09-24 10-48-13| weak update: yes
+2024-09-24 10-48-13| worker threads: 11
+2024-09-24 10-48-13| generator threads: 2
+2024-09-24 10-48-13| script background threads: 2
+2024-09-24 10-48-13| difficulty: Expert
+2024-09-24 10-48-13| scenario: Normal
+2024-09-24 10-48-13| tutorial: no
+2024-09-24 10-48-13| collision: 1
+2024-09-24 10-48-13| access list: Blacklist
+2024-09-24 10-48-13| multiplayer: no
+2024-09-24 10-48-13| vac secure: no
+2024-09-24 10-48-13| listed: no
+2024-09-24 10-48-13| steam networking: yes
+2024-09-24 10-48-13| send crash reports: no
+2024-09-24 10-48-13| Backup creation enabled. Path: "/home/avenkyrpakacit/.avorion/backups"
+2024-09-24 10-48-13| Please ensure that the server has write-access to that path.
+2024-09-24 10-48-13| server will exit once all admins logged out.
+2024-09-24 10-48-13| administrators: 'admin' 
+2024-09-24 10-48-13| Commands file: /home/avenkyrpakacit/.avorion/galaxies/Arkhias/commands.txt
+2024-09-24 10-48-13| Initializing sector database...
+2024-09-24 10-48-13| Starting thread [Create Sectors WorkerPool Thread 0]...
+2024-09-24 10-48-13| Started thread [Create Sectors WorkerPool Thread 0] with id 125636484007616
+2024-09-24 10-48-13| Starting thread [Create Sectors WorkerPool Thread 1]...
+2024-09-24 10-48-13| Started thread [Create Sectors WorkerPool Thread 1] with id 125636473521856
+2024-09-24 10-48-13| Starting thread [Save Sectors WorkerPool Thread 0]...
+2024-09-24 10-48-13| Started thread [Save Sectors WorkerPool Thread 0] with id 125636463036096
+2024-09-24 10-48-13| Initializing faction database...
+2024-09-24 10-48-13| Starting thread [Save Factions WorkerPool Thread 0]...
+2024-09-24 10-48-13| Started thread [Save Factions WorkerPool Thread 0] with id 125636381247168
+2024-09-24 10-48-13| Initializing galaxy...
+2024-09-24 10-48-13| Starting up 11 worker threads...
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 0]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 0] with id 125636370761408
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 1]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 1] with id 125636360275648
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 2]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 2] with id 125636349789888
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 3]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 3] with id 125636339304128
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 4]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 4] with id 125636328818368
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 5]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 5] with id 125636179920576
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 6]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 6] with id 125636169434816
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 7]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 7] with id 125636158949056
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 8]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 8] with id 125636148463296
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 9]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 9] with id 125636137977536
+2024-09-24 10-48-13| Starting thread [Game WorkerPool Thread 10]...
+2024-09-24 10-48-13| Started thread [Game WorkerPool Thread 10] with id 125636127491776
+2024-09-24 10-48-13| Starting up 2 script background threads...
+2024-09-24 10-48-13| Starting thread [Lua WorkerPool Thread 0]...
+2024-09-24 10-48-13| Started thread [Lua WorkerPool Thread 0] with id 125635978593984
+2024-09-24 10-48-13| Starting thread [Lua WorkerPool Thread 1]...
+2024-09-24 10-48-13| Started thread [Lua WorkerPool Thread 1] with id 125635968108224
+2024-09-24 10-48-13| Starting thread [Lua WorkerPool Thread 2]...
+2024-09-24 10-48-13| Started thread [Lua WorkerPool Thread 2] with id 125635957622464
+2024-09-24 10-48-13| Starting thread [Lua WorkerPool Thread 3]...
+2024-09-24 10-48-13| Started thread [Lua WorkerPool Thread 3] with id 125635947136704
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 0] with id 125635978593984 exiting...
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 0] with id 125635978593984 exited
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 1] with id 125635968108224 exiting...
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 1] with id 125635968108224 exited
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 2] with id 125635957622464 exiting...
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 2] with id 125635957622464 exited
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 3] with id 125635947136704 exiting...
+2024-09-24 10-48-13| Thread [Lua WorkerPool Thread 3] with id 125635947136704 exited
+2024-09-24 10-48-13| Starting thread [Lua WorkerPool Thread 4]...
+2024-09-24 10-48-13| Started thread [Lua WorkerPool Thread 4] with id 125635947136704
+2024-09-24 10-48-13| Starting thread [Lua WorkerPool Thread 5]...
+2024-09-24 10-48-13| Started thread [Lua WorkerPool Thread 5] with id 125635957622464
+2024-09-24 10-48-13| Loading groups...
+2024-09-24 10-48-13| Loading script data...
+2024-09-24 10-48-13| Galaxy initialized.
+2024-09-24 10-48-13| Setting startup script...
+2024-09-24 10-48-13| Error initializing server command line input interface: assign: Operation not permitted
+2024-09-24 10-48-13| Server has been running for 1826 seconds in total, and 1227 without pauses.
+2024-09-24 10-48-13| Starting thread [UDP Connection Receive]...
+2024-09-24 10-48-13| Started thread [UDP Connection Receive] with id 125635968108224
+2024-09-24 10-48-13| Server startup complete.
+2024-09-24 10-48-13| Starting thread [HangDetector]...
+2024-09-24 10-48-13| Started thread [HangDetector] with id 125635978593984
+2024-09-24 10-48-13| Starting thread [Steam Networking Receive]...
+2024-09-24 10-48-13| Started thread [Steam Networking Receive] with id 125635936650944
+2024-09-24 10-48-14| OnP2PSessionRequest from 76561199024034143
+2024-09-24 10-48-19| Steam authentication confirmed for 76561199024034143
+2024-09-24 10-48-19| Authentication successful for 76561199024034143
+2024-09-24 10-48-19| Connection to client established
+2024-09-24 10-48-19| Connection accepted from 192.168.1.44:0
+2024-09-24 10-48-21| 'DefenderPA90' (1) (76561199024034143) owns BlackMarket DLC: yes, client reports: yes, Steam reports: 1
+2024-09-24 10-48-21| 'DefenderPA90' (1) (76561199024034143) owns IntoTheRift DLC: yes, client reports: yes, Steam reports: 1
+2024-09-24 10-48-21| 'DefenderPA90' (1) (76561199024034143) owns Behemoth DLC: yes, client reports: yes, Steam reports: 1
+2024-09-24 10-48-21| SectorDatabase: Loading Sector (-138:428)
+2024-09-24 10-48-21| Player logged in: DefenderPA90, index: 1
+2024-09-24 10-48-21| <Server> Player DefenderPA90 joined the galaxy
+2024-09-24 10-48-24| Player DefenderPA90 moved to sector (-138:428) server time taken for change: 51ms
+2024-09-24 10-48-24| create save work for sector (-138:428), 0x7243c4001ea0, entities: 2464
+2024-09-24 10-48-24| saving sector (-138:428)
+2024-09-24 10-48-24| SectorDatabase: Loading Sector (-13S9:e4c2t6o)r
+2024-09-24 10-48-24| Database: Loading Sector (-136:426)
+2024-09-24 10-48-25| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-24 10-49-50| <> You need 60 Iron
+2024-09-24 10-56-14| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 10-56-23| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 10-56-54| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 10-58-19| Triggered saving of all server data.
+2024-09-24 10-58-19| create save work for sector (-139:426), 0x7243bc001ea0, entities: 1135
+2024-09-24 10-58-19| saving sector (-139:426)
+2024-09-24 10-58-20| create save work for sector (-138:428), 0x7243c4001ea0, entities: 2456
+2024-09-24 10-58-20| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-24 10-58-20| saving sector (-138:428)
+2024-09-24 10-58-20| create save work for sector (-136:426), 0x7243c6777020, entities: 728
+2024-09-24 10-58-20| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-24 10-58-20| saving sector (-136:426)
+2024-09-24 10-58-20| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-24 10-59-40| create save work for sector (-139:426), 0x7243bc001ea0, entities: 1135
+2024-09-24 10-59-40| saving sector 0x7243bc001ea0
+2024-09-24 10-59-40| saving sector 0x7243bc001ea0
+2024-09-24 10-59-40| create save work for sector (-136:426), 0x7243c6777020, entities: 728
+2024-09-24 10-59-40| saving sector (-139:426)
+2024-09-24 10-59-40| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-24 10-59-40| saving sector 0x7243c6777020
+2024-09-24 10-59-40| saving sector 0x7243c6777020
+2024-09-24 10-59-40| saving sector (-136:426)
+2024-09-24 10-59-40| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-24 11-01-03| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-01-09| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-01-14| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-01-54| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-02-42| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-02-48| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-05-20| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-05-35| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-05-58| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-06-13| <> You cannot build this. The block overlaps too much with another block.
+2024-09-24 11-08-12| SectorDatabase: Loading Sector (-139:426)
+2024-09-24 11-08-12| SectorDatabase: Loading Sector (-136:426)
+2024-09-24 11-08-26| Triggered saving of all server data.
+2024-09-24 11-08-26| create save work for sector (-139:426), 0x7243414f1360, entities: 1135
+2024-09-24 11-08-26| saving sector (-139:426)
+2024-09-24 11-08-26| create save work for sector (-138:428), 0x7243c4001ea0, entities: 2462
+2024-09-24 11-08-26| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-24 11-08-26| saving sector (-138:428)
+2024-09-24 11-08-26| create save work for sector (-136:426), 0x724318d853e0, entities: 728
+2024-09-24 11-08-26| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-24 11-08-26| saving sector (-136:426)
+2024-09-24 11-08-27| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-24 11-08-39| <> Calculating jump route to (-136:426). Please stand by.
+2024-09-24 11-08-51| create save work for sector (-138:428), 0x7243c4001ea0, entities: 2459
+2024-09-24 11-08-51| Player DefenderPA90 moved to sector (-136:426)from (-138:428) server time taken for change: 0ms
+2024-09-24 11-08-51| Creating sector at (-135:422)
+2024-09-24 11-08-51| saving sector (-138:428)
+2024-09-24 11-08-51| Generating new content for sector (-135:422)
+2024-09-24 11-08-52| create save work for sector (-136:426), 0x724318d853e0, entities: 735
+2024-09-24 11-08-52| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-24 11-08-52| saving sector (-136:426)
+2024-09-24 11-08-52| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-24 11-08-58| create save work for sector (-135:422), 0x72431a020180, entities: 505
+2024-09-24 11-08-58| saving sector (-135:422)
+2024-09-24 11-08-59| sector (-135:422) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_422"
+2024-09-24 11-09-48| Player logged off: 'DefenderPA90' (1) (76561199024034143)
+2024-09-24 11-09-48| create save work for sector (-136:426), 0x724318d853e0, entities: 736
+2024-09-24 11-09-48| Cleaning up entity transfers ...
+2024-09-24 11-09-48| Thread [HangDetector] with id 125635978593984 exiting...
+2024-09-24 11-09-48| Thread [HangDetector] with id 125635978593984 exited
+2024-09-24 11-09-48| Server is shutting down.
+2024-09-24 11-09-48| Saving settings...
+2024-09-24 11-09-48| Saving script values...
+2024-09-24 11-09-48| Saving factions...
+2024-09-24 11-09-48| Saving sectors...
+2024-09-24 11-09-48| Saving groups...
+2024-09-24 11-09-48| Saving galaxy script data...
+2024-09-24 11-09-48| Saving settings...
+2024-09-24 11-09-48| waiting for unfinished sector generation jobs...
+2024-09-24 11-09-48| waiting for unfinished sector save jobs...
+2024-09-24 11-09-48| create save work for sector (-139:426), 0x7243414f1360, entities: 1135
+2024-09-24 11-09-48| saving sector 0x7243414f1360
+2024-09-24 11-09-48| saving sector 0x7243414f1360
+2024-09-24 11-09-48| create save work for sector (-138:428), 0x7243c4001ea0, entities: 2459
+2024-09-24 11-09-48| create save work for sector (-136:426), 0x724318d853e0, entities: 736
+2024-09-24 11-09-48| create save work for sector (-135:422), 0x72431a020180, entities: 505
+2024-09-24 11-09-48| saving sector (-139:426)
+2024-09-24 11-09-49| Received valid shutdown message, shutting down.
+2024-09-24 11-09-49| sector (-139:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-139_426"
+2024-09-24 11-09-49| saving sector 0x7243c4001ea0
+2024-09-24 11-09-49| saving sector 0x7243c4001ea0
+2024-09-24 11-09-49| saving sector (-138:428)
+2024-09-24 11-09-49| sector (-138:428) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-138_428"
+2024-09-24 11-09-49| saving sector 0x724318d853e0
+2024-09-24 11-09-49| saving sector 0x724318d853e0
+2024-09-24 11-09-50| saving sector (-136:426)
+2024-09-24 11-09-50| sector (-136:426) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-136_426"
+2024-09-24 11-09-50| saving sector 0x72431a020180
+2024-09-24 11-09-50| saving sector 0x72431a020180
+2024-09-24 11-09-50| saving sector (-135:422)
+2024-09-24 11-09-50| sector (-135:422) saved to "/home/avenkyrpakacit/.avorion/galaxies/Arkhias/sectors/-135_422"
+2024-09-24 11-09-50| shutting down rcon...
+2024-09-24 11-09-50| shutting down networking...
+2024-09-24 11-09-50| Thread [Steam Networking Receive] with id 125635936650944 exiting...
+2024-09-24 11-09-50| Thread [Steam Networking Receive] with id 125635936650944 exited
+2024-09-24 11-09-50| Ending authentication session of 76561199024034143
+2024-09-24 11-09-51| Thread [UDP Connection Receive] with id 125635968108224 exiting...
+2024-09-24 11-09-51| Thread [UDP Connection Receive] with id 125635968108224 exited
+2024-09-24 11-09-51| UDP closed
+2024-09-24 11-09-51| Server UDP: Connection closed
+2024-09-24 11-09-51| cleaning up communicators...
+2024-09-24 11-09-51| Thread [Networking 1 WorkerPool Thread 0] with id 125636519659200 exiting...
+2024-09-24 11-09-51| Thread [Networking 1 WorkerPool Thread 0] with id 125636519659200 exited
+2024-09-24 11-09-51| Thread [Networking 2 WorkerPool Thread 0] with id 125636509173440 exiting...
+2024-09-24 11-09-51| Thread [Networking 2 WorkerPool Thread 0] with id 125636509173440 exited
+2024-09-24 11-09-51| waiting for sector database termination...
+2024-09-24 11-09-51| waiting for faction database termination...
+2024-09-24 11-09-51| Thread [Save Factions WorkerPool Thread 0] with id 125636381247168 exiting...
+2024-09-24 11-09-51| Thread [Save Factions WorkerPool Thread 0] with id 125636381247168 exited
+2024-09-24 11-09-51| shutting down galaxy...
+2024-09-24 11-09-51| Thread [Lua WorkerPool Thread 4] with id 125635947136704 exiting...
+2024-09-24 11-09-51| Thread [Lua WorkerPool Thread 4] with id 125635947136704 exited
+2024-09-24 11-09-51| Thread [Lua WorkerPool Thread 5] with id 125635957622464 exiting...
+2024-09-24 11-09-51| Thread [Lua WorkerPool Thread 5] with id 125635957622464 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 0] with id 125636370761408 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 0] with id 125636370761408 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 1] with id 125636360275648 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 1] with id 125636360275648 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 2] with id 125636349789888 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 2] with id 125636349789888 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 3] with id 125636339304128 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 3] with id 125636339304128 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 4] with id 125636328818368 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 4] with id 125636328818368 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 5] with id 125636179920576 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 5] with id 125636179920576 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 6] with id 125636169434816 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 6] with id 125636169434816 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 7] with id 125636158949056 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 7] with id 125636158949056 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 8] with id 125636148463296 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 8] with id 125636148463296 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 9] with id 125636137977536 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 9] with id 125636137977536 exited
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 10] with id 125636127491776 exiting...
+2024-09-24 11-09-51| Thread [Game WorkerPool Thread 10] with id 125636127491776 exited
+2024-09-24 11-09-51| shutting down faction database...
+2024-09-24 11-09-51| shutting down sector database...
+2024-09-24 11-09-51| Thread [Save Sectors WorkerPool Thread 0] with id 125636463036096 exiting...
+2024-09-24 11-09-51| Thread [Save Sectors WorkerPool Thread 0] with id 125636463036096 exited
+2024-09-24 11-09-51| Thread [Create Sectors WorkerPool Thread 0] with id 125636484007616 exiting...
+2024-09-24 11-09-51| Thread [Create Sectors WorkerPool Thread 0] with id 125636484007616 exited
+2024-09-24 11-09-51| Thread [Create Sectors WorkerPool Thread 1] with id 125636473521856 exiting...
+2024-09-24 11-09-51| Thread [Create Sectors WorkerPool Thread 1] with id 125636473521856 exited
+2024-09-24 11-09-51| cleaning up timers...
+2024-09-24 11-09-51| Server shutdown successful.
